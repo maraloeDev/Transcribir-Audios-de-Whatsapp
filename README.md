@@ -20,6 +20,8 @@ Requiere Python 3.9+.
 pip install faster-whisper
 ```
 
+> El paquete se instala como `faster-whisper` pero se importa en Python como `faster_whisper`.
+
 ## Uso
 
 ```bash
